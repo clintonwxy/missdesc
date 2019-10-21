@@ -1,0 +1,17 @@
+Package: missdesc
+Type: Package
+Title: Quick Summary of Missing Data
+Version: 0.1.0
+Author: Clinton Wong
+Maintainer: Clinton Wong <cxw2002@columbia.edu>
+Description: The package is aimed at providing quick and simple
+    summary statistics on the missingness in a data frame,
+    including by rows and columns.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    ggplot2
+RoxygenNote: 6.1.99.9001
+Suggests: 
+    testthat
